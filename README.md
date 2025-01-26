@@ -28,5 +28,5 @@ TBC: Find a way to call this file from any folder with an env variable.
 
 ### Example Run:
 ```bash
-$ ./backup_script.sh
+$ ./GDriveBackup.sh
 ```
